@@ -126,7 +126,7 @@ function Dashboard({ market, data }) {
                                   </button>
                         </div>
                 </div>
-          </>>
+          </>
         );
 }
 
@@ -191,4 +191,4 @@ export default function App() {
                 </main>
           </div>
         );
-}</>
+}
